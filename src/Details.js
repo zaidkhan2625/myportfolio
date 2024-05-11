@@ -32,7 +32,7 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Mohamma Zaid",
+  name: "Mohammad Zaid",
   tagline: "Mern Full Stack Developer",
   img: profile,
   about: `Hello! I'm Mohammad Zaid, a passionate MERN (MongoDB, Express.js, React.js, Node.js , JavaSript) full-stack developer with a keen interest in crafting robust and user-friendly web applications. With a background in computer science , I've honed my skills in both front-end and back-end development to deliver seamless digital experiences.`,
