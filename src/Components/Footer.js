@@ -10,11 +10,11 @@ function Footer() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          Mohamma Zaid
+          Mohammad Zaid
         </a>{" "}
-        with
-        <span className="text-gradient font-medium"> Love</span> &
-        <span className="text-gradient font-medium"> Coffee</span>
+        {/* with */}
+        {/* <span className="text-gradient font-medium"> Love</span> &
+        <span className="text-gradient font-medium"> Coffee</span> */}
       </p>
     </footer>
   );

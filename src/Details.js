@@ -3,7 +3,7 @@
 import logogradient from "./assets/logo.svg";
 import logo from "./assets/logo2.svg";
 // Profile Image
-import profile from "./assets/profile.jpg";
+import profile from "./assets/zrk.png";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
@@ -20,12 +20,9 @@ import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
 // Porject Images
-import projectImage1 from "./assets/projects/project1.jpg";
-import projectImage2 from "./assets/projects/project2.jpg";
-import projectImage3 from "./assets/projects/project3.jpg";
-import projectImage4 from "./assets/projects/project4.jpg";
-import projectImage5 from "./assets/projects/project5.jpg";
-import projectImage6 from "./assets/projects/project6.jpg";
+import projectImage1 from "./assets/projects/reddit.jpg";
+import projectImage2 from "./assets/projects/clear.jpg";
+import projectImage3 from "./assets/projects/mealplanner.jpg";
 
 // Logos
 export const logos = {
@@ -36,15 +33,15 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "Mohamma Zaid",
-  tagline: "I build things for web",
+  tagline: "Mern Full Stack Developer",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `Hello! I'm Mohammad Zaid, a passionate MERN (MongoDB, Express.js, React.js, Node.js , JavaSript) full-stack developer with a keen interest in crafting robust and user-friendly web applications. With a background in computer science , I've honed my skills in both front-end and back-end development to deliver seamless digital experiences.`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
   linkdein: "https://www.linkedin.com/in/mohammad-zaid-91b6b416a/",
-  github: "https://www.github.com/",
+  github: "https://github.com/zaidkhan2625",
   twitter: "https://twitter.com/",
   instagram: "https://www.instagram.com/",
 };
@@ -52,43 +49,36 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Position: "Jr. Softwear Engineer",
+    Company: `Drish Technology`,
+    Location: "Mumbai",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "May 2024 -Persent",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
+    Position: "Full Stack Development",
+    Company: `Newton School`,
     Location: "Bengaluru",
     Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
-  },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "Feb 2023 - Apr 2024",
   },
 ];
 
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
-    Location: "Online",
-    Type: "Full Time",
-    Duration: "Jan 2022 - Present",
+    Position: "Master Of Computer Application",
+    Company: "Maulana Azad National Urdu University",
+    Location: "Hyderabad",
+    Type: "Regular",
+    Duration: "aug 2021 - aug 2023",
   },
   {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Position: "Bachelor of Computer Application",
+    Company: `Allen House Business School`,
+    Location: "Kanpur",
+    Type: "Regular",
+    Duration: "july 2017 - july 2020",
   },
 ];
 
@@ -113,58 +103,33 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Reddit Clone",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description:
+      "This is a sample project, which closely resembles the official Reddit platform. In this project, I've implemented features such as user authentication and authorization using React Router DOM. Users are able to post comments, create posts, and like posts, with appropriate permissions enforced to ensure secure access to these functionalities.",
+    techstack: "HTML/CSS, JavaScript ,React",
+    previewLink: "https://redditclonebymohammadzaid.netlify.app/",
+    githubLink:
+      "https://github.com/zaidkhan2625/Reddit-React-Clone---React-Project-2---9ced8p02w2tb",
   },
   {
-    title: "Project title 2",
+    title: "Clear Trip Clone",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description:
+      "This is a sample project closely resembling the official Cleartrip platform. Within this project, I've implemented features such as hotel and flight booking functionalities, user authentication, login/logout capabilities, and the ability for users to view their booking history. Additionally, users can utilize a filter option to streamline the booking process for both flights and hotels.",
+    techstack: "HTML/CSS, JavaScript , React",
+    previewLink: "https://cleartripclonebymohammadzaid.netlify.app/",
+    githubLink:
+      "https://github.com/zaidkhan2625/ClearTrip-Clone---React-Project-1---wzf4gtbqbaxc",
   },
   {
-    title: "Project title 3",
+    title: "Clear Trip Clone",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 4",
-    image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 5",
-    image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 6",
-    image: projectImage6,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description:
+      "This is a sample project for a meal planner designed for gym enthusiasts and health-conscious individuals. It allows users to input details such as body weight, height, age, and health goals, such as body cutting or weight gain. Based on this information, the application provides tailored food details and recipes to help users achieve their health goals.",
+    techstack: "HTML/CSS, JavaScript , React",
+    previewLink: "https://profound-hotteok-6042de.netlify.app/",
+    githubLink: "https://github.com/zaidkhan2625/mealplanner",
   },
 ];
 

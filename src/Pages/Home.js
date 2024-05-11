@@ -81,7 +81,8 @@ function Home() {
       <div className="mt-5 md:mt-0">
         <img
           ref={myimageref}
-          className="w-1/2 md:ml-auto"
+          className=" md:h-auto md:w-1/2 md:ml-auto rounded-full"
+          style={{width:180 , height:180}}
           src={img}
           alt="Pavan MG"
         />
