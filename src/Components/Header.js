@@ -13,7 +13,7 @@ function Header() {
     <header className="container mx-auto md:flex justify-between py-2 max-width">
       <div className="flex justify-between items-center py-2 md:py-10">
         <NavLink to="/">
-          <h1 className="w-14" >Mohammad Zaid</h1>
+          <h1 className="w-14" >Mohammad </h1>
         </NavLink>
         <div onClick={toggleClass} className="cursor-pointer">
           <svg
