@@ -19,6 +19,7 @@ import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
+import node from "./assets/techstack/node.png";
 // Porject Images
 import projectImage1 from "./assets/projects/reddit.jpg";
 import projectImage2 from "./assets/projects/clear.jpg";
@@ -98,6 +99,7 @@ export const techStackDetails = {
   git: git,
   github: github,
   figma: figma,
+  node:node,
 };
 
 // Enter your Project Details here
