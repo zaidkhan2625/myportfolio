@@ -127,7 +127,7 @@ export const projectDetails = [
       "https://github.com/zaidkhan2625/ClearTrip-Clone---React-Project-1---wzf4gtbqbaxc",
   },
   {
-    title: "Clear Trip Clone",
+    title: "Diet Planner",
     image: projectImage3,
     description:
       "This is a sample project for a meal planner designed for gym enthusiasts and health-conscious individuals. It allows users to input details such as body weight, height, age, and health goals, such as body cutting or weight gain. Based on this information, the application provides tailored food details and recipes to help users achieve their health goals.",
