@@ -20,7 +20,7 @@ import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
 import node from "./assets/techstack/node.png";
-import mongo from "./assets/techstack/mongo.png";
+import mongo from "./assets/techstack/m.png";
 // Porject Images
 import projectImage1 from "./assets/projects/reddit.jpg";
 import projectImage2 from "./assets/projects/clear.jpg";
