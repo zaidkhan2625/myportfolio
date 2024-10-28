@@ -82,6 +82,13 @@ export const eduDetails = [
     Type: "Regular",
     Duration: "july 2017 - july 2020",
   },
+  {
+    Position: "Intermediate",
+    Company: `Goverment Inter College Basti`,
+    Location: "Uttar Pradesh",
+    Type: "Regular",
+    Duration: "july 2015 - july 2017",
+  }
 ];
 
 // Tech Stack and Tools
