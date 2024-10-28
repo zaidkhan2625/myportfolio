@@ -89,6 +89,15 @@ export const eduDetails = [
     Type: "Regular",
     Duration: "july 2015 - july 2017",
   }
+  ,
+  {
+    Position: "High School",
+    Company: `National Inter College Munda Diha Baig`,
+    Location: "Uttar Pradesh",
+    Type: "Regular",
+    Duration: "july 2014 - july 2015",
+  }
+  
 ];
 
 // Tech Stack and Tools
