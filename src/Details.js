@@ -95,7 +95,7 @@ export const eduDetails = [
     Company: `National Inter College Munda Diha Baig`,
     Location: "Uttar Pradesh",
     Type: "Regular",
-    Duration: "july 2014 - july 2015",
+    Duration: "july 2013 - july 2015",
   }
   
 ];
