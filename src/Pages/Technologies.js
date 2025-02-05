@@ -15,6 +15,7 @@ function Technologies() {
     git,
     github,
     npm,
+    nextjs,
     postman,
     node,
     mongo
@@ -34,6 +35,8 @@ function Technologies() {
         <img src={css} title="CSS" alt="" />
         <img src={js} title="JavaScript" alt="" />
         <img src={react} title="React" alt="" />
+        <img src={nextjs} title="React" alt="" />
+
         <img src={redux} title="Redux" alt="" />
         <img src={tailwind} title="Tailwind CSS" alt="" />
         <img src={bootstrap} title="Bootstrap" alt="" />
