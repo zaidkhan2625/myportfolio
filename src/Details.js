@@ -26,6 +26,7 @@ import projectImage1 from "./assets/projects/reddit.jpg";
 import projectImage2 from "./assets/projects/clear.jpg";
 import projectImage3 from "./assets/projects/mealplanner.jpg";
 import nextjs from "./assets/techstack/nextjs.jpg";
+import postgress from "./assets/techstack/postgress.png"
 
 // Logos
 export const logos = {
@@ -90,6 +91,7 @@ export const techStackDetails = {
   html: html,
   css: css,
   js: js,
+  postgress:postgress,
   react: react,
   nextjs:nextjs,
   redux: redux,
