@@ -55,7 +55,7 @@ export const workDetails = [
     Company: `Drish Technology`,
     Location: "Mumbai",
     Type: "Full Time",
-    Duration: "Sep 2023  -Persent",
+    Duration: "Sep 2023   -Persent",
   },
   {
     Position: "Full Stack Development",
