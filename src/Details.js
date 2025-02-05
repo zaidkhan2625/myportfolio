@@ -25,6 +25,7 @@ import mongo from "./assets/techstack/m.png";
 import projectImage1 from "./assets/projects/reddit.jpg";
 import projectImage2 from "./assets/projects/clear.jpg";
 import projectImage3 from "./assets/projects/mealplanner.jpg";
+import nextjs from "./assets/techstack/nextjs.jpg";
 
 // Logos
 export const logos = {
@@ -90,6 +91,7 @@ export const techStackDetails = {
   css: css,
   js: js,
   react: react,
+  nextjs:nextjs,
   redux: redux,
   sass: sass,
   tailwind: tailwind,
